@@ -1,0 +1,7 @@
+SparseMatrix: 6 by 6
+row 0: 1 2 -1
+row 1: -1
+row 2: 0 1 4 -1
+row 3: 4 5 -1
+row 4: 3 5 -1
+row 5: 3 -1
